@@ -1,10 +1,12 @@
 body {
     background: url(../recourses/background.jpg)no-repeat center center fixed;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     font-family: 'Raleway', sans-serif;
+
 
 }
 
@@ -22,5 +24,7 @@ a{
 }
 
 h2 {
+
     color: #E0E4E7;
 }
+
