@@ -1,10 +1,12 @@
 body {
     background: url(../recourses/background.jpg)no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  color: whitesmoke;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+
 
 }
 
@@ -13,7 +15,8 @@ p {
 }
 
 h1 {
-    color: #B8DBD9;
+    /* color: #B8DBD9; */
+    color: #E0E4E7;
 }
 
 a{
@@ -21,6 +24,7 @@ a{
 }
 
 h2 {
-    color: #B8DBD9;
+
+    color: #E0E4E7;
 }
 
