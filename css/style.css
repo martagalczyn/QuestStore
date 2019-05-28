@@ -4,6 +4,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Raleway', sans-serif;
 
 }
 
@@ -12,7 +13,8 @@ p {
 }
 
 h1 {
-    color: #B8DBD9;
+    /* color: #B8DBD9; */
+    color: #E0E4E7;
 }
 
 a{
@@ -20,5 +22,5 @@ a{
 }
 
 h2 {
-    color: #B8DBD9;
+    color: #E0E4E7;
 }
