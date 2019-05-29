@@ -25,22 +25,29 @@ h2 {
     color: #E0E4E7;
 }
 
-/* navigation bar */
+
 nav {
-    font-family: 'Raleway', sans-serif;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    /* margin-top: 2%;
-    margin-bottom: 8%; */
+  font-family: 'Raleway', sans-serif;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  /* margin-top: 2%;
+  margin-bottom: 8%; */
   }
-  ul {
-      list-style-type: none;
-      margin-top: -15px;
-      margin-bottom: 6%;
-      padding: 0;
-      overflow: hidden;
-      background-color: #E0E4E7;
-    }
+
+nav img {
+  width: 30%;
+  margin-top:3%;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: -15px;
+  margin-bottom: 6%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E0E4E7;
+  
+  }
     
   li {
     float: left;
