@@ -27,6 +27,7 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
+    background-color: blanchedalmond;
 }
 
 .item-header {
@@ -47,4 +48,8 @@
     justify-content: space-around;
 }
 
-#item-1{background-image: url("https://image.flaticon.com/icons/svg/1642/1642322.svg")}
+#item-1{
+    background-image: url("../recourses/winner.svg")
+}
+
+#item-2{background-image: url("../recourses/cezar.png")}
