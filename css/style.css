@@ -42,7 +42,7 @@ nav img {
   margin-top:3%;
 }
 
-ul {
+#navToolBar {
   list-style-type: none;
   margin-top: -15px;
   margin-bottom: 6%;
@@ -52,16 +52,16 @@ ul {
   
   }
     
-  li {
+  #navToolBar li {
     float: left;
     border-right:1px solid #bbb;
   }
   
-  li:last-child {
+  #navToolBar li:last-child {
     border-right: none;
   }
   
-  li a {
+  #navToolBar li a {
     display: block;
     color: #080B0C;
     text-align: center;
@@ -71,7 +71,7 @@ ul {
 
   }
   
-  li a:hover:not(.active) {
+  #navToolBar li a:hover:not(.active) {
     background-color: #768993;
   }
   
