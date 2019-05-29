@@ -1,0 +1,44 @@
+.usersList {
+    margin-left: 20%;
+    margin-top:3%;
+  
+}
+
+.usersList h4 {
+    font-size: 200%;
+    color: #F4F4F9;
+    margin-left: 15%;
+    
+    
+  }
+
+.usersList table {
+font-size: 150%;
+border-collapse: collapse;
+width: 50%;
+margin-bottom: 5%;
+}
+
+.usersList td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+color: #F4F4F9;
+background-color: #768993;
+
+}
+
+th {
+    background-color: #303D44;
+}
+
+td:first-child {
+    background-color: #303D44;
+}
+
+
+
+/* .usersList tr:nth-child(even) {
+background-color: #dddddd;
+
+} */
