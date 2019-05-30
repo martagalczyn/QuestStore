@@ -1,0 +1,42 @@
+.items {
+    text-align: center;
+}
+
+img {
+    padding: 0.5vw;
+    width: 20vw;
+}
+
+h2 {
+    margin-left: -6vw;
+    margin-top: -6vw;
+    font-size: 5vw;
+    text-shadow: 2px 2px #ff0000
+}
+
+.item {
+    padding: 0.5vw;
+    margin: 20px;
+    background-color: navy;
+    color: #ffffff;
+    display: inline-block;
+    width: 27%;
+    border: 2px solid #E0E4E7;
+    border-radius: 5px;
+}
+
+.item-description {
+    margin-bottom: 20px;
+}
+
+.item-header {
+    font-size: 18px;
+    color: #080B0C;
+    border-radius: 3px;
+    padding: 1vw 0 1vw 0;
+    background: #E0E4E7;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
