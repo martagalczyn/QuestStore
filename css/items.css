@@ -15,12 +15,12 @@ h2 {
 }
 
 .item {
-    margin: 15px;
+    margin: 30px;
     padding: 0.5vw;
     background-color: navy;
     color: #ffffff;
     display: inline-block;
-    width: 100%;
+    width: 80%;
     border: 2px solid #E0E4E7;
     border-radius: 5px;
     box-shadow: 2px 3px 6px #080B0C;
