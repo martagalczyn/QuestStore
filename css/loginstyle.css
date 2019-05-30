@@ -29,6 +29,7 @@
     color: #F4F3F1;
     padding: 0;
     margin: 0;
+    margin-top: 10%;
     margin-bottom: 10px;
 }
 
@@ -51,11 +52,11 @@
 
 }
 
-.login-form a {
+.logAsUser {
     text-decoration: none;
-    color: #525156;
     display: block;
     text-align: center;
     font-size: 13px;
     margin: 0 0 7px 0;
 }
+
