@@ -1,0 +1,22 @@
+.createUpdateForm{
+    margin-left: 20%;
+    margin-top: -5%;
+    /* position: relative; */
+}
+
+.createUpdateForm input[type="text"]{
+    width: 50%;
+}
+
+.createUpdateForm input[type="submit"]{
+    margin-top: 5%;
+    margin-left: 45%;
+    height: 30px;
+    width: 70px;
+    text-transform: uppercase;
+}
+
+#levelSelect{
+    height: 30px;;
+    width: 130px;
+}
