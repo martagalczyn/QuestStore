@@ -21,7 +21,21 @@
     width: 130px;
 }
 
+
+.createArtifactForm{
+    margin-left: 10%;
+}
+
+.createArtifactForm input[type="submit"]{
+    margin-top: 0%;
+    margin-left: 33%;
+    height: 30px;
+    width: 70px;
+    text-transform: uppercase;
+}
+
 .classSelect{
     height: 30px;;
     width: 130px;
+
 }
