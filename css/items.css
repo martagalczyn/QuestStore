@@ -1,5 +1,6 @@
 .items {
     text-align: center;
+    display: block;
 }
 
 img {
@@ -8,21 +9,21 @@ img {
 }
 
 h2 {
-    margin-left: -6vw;
     margin-top: -6vw;
     font-size: 5vw;
-    text-shadow: 2px 2px #ff0000
+    text-shadow: 2px 2px #080B0C;
 }
 
 .item {
+    margin: 15px;
     padding: 0.5vw;
-    margin: 20px;
     background-color: navy;
     color: #ffffff;
     display: inline-block;
-    width: 27%;
+    width: 100%;
     border: 2px solid #E0E4E7;
     border-radius: 5px;
+    box-shadow: 2px 3px 6px #080B0C;
 }
 
 .item-description {
@@ -39,4 +40,5 @@ h2 {
     flex-flow: row nowrap;
     justify-content: space-around;
     align-items: center;
+    box-shadow: 2px 3px 6px #080B0C;
 }
